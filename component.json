@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "component/to-function": "*",
-    "mbostock/d3": "*",
+    "mbostock/d3": "master",
     "visionmedia/minstache": "*",
     "component/emitter": "*",
     "component/bind": "*"
